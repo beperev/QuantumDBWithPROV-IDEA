@@ -4,7 +4,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.quantumdb.io/xml/ns/quantumdb-changelog-0.4.xsd">
 
-	<changeset id="v" author="Bea">
+	<changeset id="changes" author="Bea">
 		<description>Copy a table.</description>
 		<operations>
 	 	 <copyTable sourceTableName="empleado" targetTableName="cliente" ></copyTable> 
